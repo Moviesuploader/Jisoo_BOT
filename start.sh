@@ -1,3 +1,3 @@
-
+run command 
 echo "Starting Bot...."
-run command python3 bot.py
+python3 bot.py
